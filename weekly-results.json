@@ -1,0 +1,1039 @@
+{
+  "meta": {
+    "cycle": "results",
+    "generated_at": "2026-09-30T01:01:47+00:00",
+    "league_key": "last_man_standing",
+    "league_name": "Last Man Standing",
+    "mode": "regular",
+    "platform": "sleeper",
+    "platform_league_id": "1389722150490886144",
+    "season": 2026,
+    "source_week": 3,
+    "week": 3
+  },
+  "teams": [
+    {
+      "eliminated_week": null,
+      "faab_remaining": 88,
+      "manager": "killanomic5",
+      "owner_id": "997542764755644416",
+      "players": [
+        "11566",
+        "11576",
+        "11625",
+        "11834",
+        "12504",
+        "12506",
+        "13296",
+        "13337",
+        "7543",
+        "7567",
+        "8183",
+        "8188",
+        "9221",
+        "9997"
+      ],
+      "points_against": 0.0,
+      "points_for": 336.38,
+      "prior_week_points": {
+        "1": 123.86,
+        "2": 76.74
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "1",
+      "starters": [
+        "8183",
+        "9221",
+        "7543",
+        "9997",
+        "11834",
+        "12506",
+        "7567",
+        "11576"
+      ],
+      "team": "Last Kut",
+      "team_id": "1",
+      "waiver_budget_used": 12,
+      "week_points": 135.78
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 97,
+      "manager": "jsoares7711",
+      "owner_id": "998634846542987264",
+      "players": [
+        "11581",
+        "11618",
+        "12487",
+        "2449",
+        "3163",
+        "3198",
+        "7002",
+        "7526",
+        "8136",
+        "8161",
+        "8167",
+        "8408",
+        "9224",
+        "9486"
+      ],
+      "points_against": 0.0,
+      "points_for": 384.08,
+      "prior_week_points": {
+        "1": 139.04,
+        "2": 135.48
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "2",
+      "starters": [
+        "3163",
+        "3198",
+        "9224",
+        "9486",
+        "8167",
+        "7002",
+        "7526",
+        "12487"
+      ],
+      "team": "B.I.T.E.",
+      "team_id": "2",
+      "waiver_budget_used": 3,
+      "week_points": 109.56
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 0,
+      "manager": "alesclub",
+      "owner_id": "997688647067111424",
+      "players": [
+        "10232",
+        "11435",
+        "11563",
+        "11586",
+        "11635",
+        "11783",
+        "13281",
+        "13345",
+        "4034",
+        "5849",
+        "7553",
+        "8137",
+        "8228",
+        "9500"
+      ],
+      "points_against": 0.0,
+      "points_for": 300.7,
+      "prior_week_points": {
+        "1": 81.84,
+        "2": 85.62
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "3",
+      "starters": [
+        "11563",
+        "4034",
+        "8228",
+        "8137",
+        "9500",
+        "7553",
+        "10232",
+        "11635"
+      ],
+      "team": "Alesclub",
+      "team_id": "3",
+      "waiver_budget_used": 100,
+      "week_points": 133.24
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 0,
+      "manager": "bayoklein",
+      "owner_id": "1262965763719839744",
+      "players": [
+        "12507",
+        "12519",
+        "12534",
+        "13286",
+        "13414",
+        "4035",
+        "4039",
+        "4984",
+        "7525",
+        "7564",
+        "8110",
+        "8142",
+        "96",
+        "9756"
+      ],
+      "points_against": 0.0,
+      "points_for": 327.04,
+      "prior_week_points": {
+        "1": 79.46,
+        "2": 151.82
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "4",
+      "starters": [
+        "4984",
+        "12507",
+        "13286",
+        "12519",
+        "7564",
+        "8110",
+        "12534",
+        "7525"
+      ],
+      "team": "Clobberknockers",
+      "team_id": "4",
+      "waiver_budget_used": 1000,
+      "week_points": 95.76
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 68,
+      "manager": "tbach24",
+      "owner_id": "997607151751237632",
+      "players": [
+        "10229",
+        "11564",
+        "12474",
+        "12502",
+        "13288",
+        "13317",
+        "13346",
+        "1479",
+        "4199",
+        "6813",
+        "8126",
+        "8131",
+        "8146",
+        "8154"
+      ],
+      "points_against": 0.0,
+      "points_for": 299.1,
+      "prior_week_points": {
+        "1": 117.52,
+        "2": 89.42
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "5",
+      "starters": [
+        "11564",
+        "6813",
+        "12474",
+        "10229",
+        "8146",
+        "8131",
+        "13346",
+        "4199"
+      ],
+      "team": "tbach24",
+      "team_id": "5",
+      "waiver_budget_used": 32,
+      "week_points": 92.16
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 0,
+      "manager": "rwgolish",
+      "owner_id": "733045460331249664",
+      "players": [
+        "11630",
+        "12048",
+        "13279",
+        "13298",
+        "1373",
+        "3294",
+        "4217",
+        "5001",
+        "5850",
+        "6801",
+        "8155",
+        "8180",
+        "9509",
+        "9754"
+      ],
+      "points_against": 0.0,
+      "points_for": 342.1,
+      "prior_week_points": {
+        "1": 85.7,
+        "2": 121.66
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "6",
+      "starters": [
+        "3294",
+        "9509",
+        "8155",
+        "6801",
+        "13279",
+        "5001",
+        "4217",
+        "9754"
+      ],
+      "team": "Jacobs Family Affairs",
+      "team_id": "6",
+      "waiver_budget_used": 450,
+      "week_points": 134.74
+    },
+    {
+      "eliminated_week": 2,
+      "faab_remaining": 84,
+      "manager": "DannyBoy413",
+      "owner_id": "997877333677694976",
+      "players": [],
+      "points_against": 0.0,
+      "points_for": 164.16,
+      "prior_week_points": {
+        "1": 117.24,
+        "2": 46.92
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "7",
+      "starters": [],
+      "team": "Danny Pennies",
+      "team_id": "7",
+      "waiver_budget_used": 16,
+      "week_points": 0.0
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 100,
+      "manager": "Vladjoseph37",
+      "owner_id": "1256010031447425024",
+      "players": [
+        "11575",
+        "11603",
+        "1166",
+        "12509",
+        "13301",
+        "13330",
+        "13347",
+        "421",
+        "5892",
+        "6806",
+        "8134",
+        "8144",
+        "9487",
+        "9488"
+      ],
+      "points_against": 0.0,
+      "points_for": 373.74,
+      "prior_week_points": {
+        "1": 123.6,
+        "2": 132.58
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "8",
+      "starters": [
+        "421",
+        "5892",
+        "6806",
+        "9488",
+        "8144",
+        "11603",
+        "9487",
+        "8134"
+      ],
+      "team": "Vladjoseph37",
+      "team_id": "8",
+      "waiver_budget_used": 0,
+      "week_points": 117.56
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 90,
+      "manager": "kmillzbos617",
+      "owner_id": "997625144065490944",
+      "players": [
+        "10218",
+        "11628",
+        "11637",
+        "12481",
+        "12484",
+        "12493",
+        "5045",
+        "5844",
+        "6904",
+        "7569",
+        "7594",
+        "8121",
+        "8138",
+        "9758"
+      ],
+      "points_against": 0.0,
+      "points_for": 289.0,
+      "prior_week_points": {
+        "1": 110.32,
+        "2": 93.66
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "9",
+      "starters": [
+        "6904",
+        "8138",
+        "12481",
+        "8121",
+        "5045",
+        "12493",
+        "7594",
+        "10218"
+      ],
+      "team": "kmillzbos617",
+      "team_id": "9",
+      "waiver_budget_used": 10,
+      "week_points": 85.02
+    },
+    {
+      "eliminated_week": 3,
+      "faab_remaining": 100,
+      "manager": "Bsoares401",
+      "owner_id": "737759462600953856",
+      "players": [],
+      "points_against": 0.0,
+      "points_for": 315.38,
+      "prior_week_points": {
+        "1": 135.16,
+        "2": 109.68
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "10",
+      "starters": [
+        "4046",
+        "9226",
+        "12529",
+        "4983",
+        "11646",
+        "8130",
+        "8132",
+        "2505"
+      ],
+      "team": "Bsoares401",
+      "team_id": "10",
+      "waiver_budget_used": 0,
+      "week_points": 70.54
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 0,
+      "manager": "JaspersDad",
+      "owner_id": "1263001824735002624",
+      "players": [
+        "11620",
+        "11624",
+        "12483",
+        "12508",
+        "12512",
+        "12514",
+        "13305",
+        "1466",
+        "5870",
+        "7049",
+        "7571",
+        "8151",
+        "9493",
+        "9504"
+      ],
+      "points_against": 0.0,
+      "points_for": 283.8,
+      "prior_week_points": {
+        "1": 104.2,
+        "2": 97.3
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "11",
+      "starters": [
+        "5870",
+        "8151",
+        "12512",
+        "12514",
+        "11620",
+        "1466",
+        "7571",
+        "11624"
+      ],
+      "team": "JaspersDad",
+      "team_id": "11",
+      "waiver_budget_used": 838,
+      "week_points": 82.3
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 0,
+      "manager": "Momoney1288",
+      "owner_id": "1128396360727789568",
+      "players": [
+        "10219",
+        "12517",
+        "12535",
+        "12547",
+        "4037",
+        "4866",
+        "4892",
+        "5947",
+        "6797",
+        "7588",
+        "7600",
+        "8148",
+        "8150",
+        "8676"
+      ],
+      "points_against": 0.0,
+      "points_for": 214.08,
+      "prior_week_points": {
+        "1": 63.16,
+        "2": 47.18
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "12",
+      "starters": [
+        "6797",
+        "7588",
+        "8150",
+        "8148",
+        "4037",
+        "12517",
+        "4866",
+        "5947"
+      ],
+      "team": "Momoney1288",
+      "team_id": "12",
+      "waiver_budget_used": 601,
+      "week_points": 103.74
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 100,
+      "manager": "pdoakland",
+      "owner_id": "854241572278116352",
+      "players": [
+        "11604",
+        "11608",
+        "11610",
+        "2216",
+        "5012",
+        "5859",
+        "5927",
+        "5995",
+        "6012",
+        "7021",
+        "7523",
+        "7528",
+        "9482",
+        "9508"
+      ],
+      "points_against": 0.0,
+      "points_for": 220.24,
+      "prior_week_points": {
+        "1": 78.6,
+        "2": 57.46
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "13",
+      "starters": [
+        "7523",
+        "5995",
+        "9508",
+        "11610",
+        "11608",
+        "5012",
+        "2216",
+        "11604"
+      ],
+      "team": "Put \u2018Em Down Jeantly",
+      "team_id": "13",
+      "waiver_budget_used": 0,
+      "week_points": 84.18
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 0,
+      "manager": "KingJames117",
+      "owner_id": "1263653550190247936",
+      "players": [
+        "10236",
+        "10859",
+        "12527",
+        "2133",
+        "3214",
+        "4018",
+        "4943",
+        "5872",
+        "5967",
+        "6770",
+        "6790",
+        "6804",
+        "7090",
+        "8112"
+      ],
+      "points_against": 0.0,
+      "points_for": 352.54,
+      "prior_week_points": {
+        "1": 102.08,
+        "2": 129.08
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "14",
+      "starters": [
+        "6770",
+        "12527",
+        "6790",
+        "8112",
+        "2133",
+        "10859",
+        "10236",
+        "5872"
+      ],
+      "team": "KingJames117",
+      "team_id": "14",
+      "waiver_budget_used": 575,
+      "week_points": 121.38
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 99,
+      "manager": "jdamiani07",
+      "owner_id": "997689563722072064",
+      "players": [
+        "10213",
+        "11559",
+        "11560",
+        "12472",
+        "12489",
+        "12490",
+        "12526",
+        "13287",
+        "2306",
+        "4177",
+        "4993",
+        "6794",
+        "9480"
+      ],
+      "points_against": 0.0,
+      "points_for": 294.8,
+      "prior_week_points": {
+        "1": 133.56,
+        "2": 82.12
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "15",
+      "starters": [
+        "2306",
+        "13287",
+        "12490",
+        "6794",
+        "12526",
+        "9480",
+        "10213",
+        "12489"
+      ],
+      "team": "Caleb\u2019s Nail Salon",
+      "team_id": "15",
+      "waiver_budget_used": 1,
+      "week_points": 79.12
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 98,
+      "manager": "HurtNabers",
+      "owner_id": "1002436935002038272",
+      "players": [
+        "11584",
+        "12499",
+        "12545",
+        "13294",
+        "3321",
+        "4066",
+        "4881",
+        "5846",
+        "6130",
+        "6828",
+        "7547",
+        "8111",
+        "9484",
+        "9753"
+      ],
+      "points_against": 0.0,
+      "points_for": 267.1,
+      "prior_week_points": {
+        "1": 106.76,
+        "2": 87.0
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "16",
+      "starters": [
+        "4881",
+        "11584",
+        "6130",
+        "7547",
+        "5846",
+        "9484",
+        "13294",
+        "8111"
+      ],
+      "team": "BuckyBrooks",
+      "team_id": "16",
+      "waiver_budget_used": 2,
+      "week_points": 73.34
+    },
+    {
+      "eliminated_week": 1,
+      "faab_remaining": 100,
+      "manager": "LCAzcona",
+      "owner_id": "1263860164360949760",
+      "players": [],
+      "points_against": 0.0,
+      "points_for": 60.16,
+      "prior_week_points": {
+        "1": 60.16,
+        "2": 0.0
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "17",
+      "starters": [],
+      "team": "Chop Til I Drop",
+      "team_id": "17",
+      "waiver_budget_used": 0,
+      "week_points": 0.0
+    },
+    {
+      "eliminated_week": null,
+      "faab_remaining": 100,
+      "manager": "TyTheGreatest",
+      "owner_id": "854248729006448640",
+      "players": [
+        "11579",
+        "11631",
+        "11632",
+        "12492",
+        "12501",
+        "12518",
+        "12524",
+        "12533",
+        "6786",
+        "7611",
+        "8210",
+        "9228",
+        "9511",
+        "9757"
+      ],
+      "points_against": 0.0,
+      "points_for": 313.76,
+      "prior_week_points": {
+        "1": 120.64,
+        "2": 101.08
+      },
+      "record": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 0
+      },
+      "roster_id": "18",
+      "starters": [
+        "9228",
+        "7611",
+        "12533",
+        "6786",
+        "11632",
+        "12518",
+        "11631",
+        "12501"
+      ],
+      "team": "Catch These Hands \ud83d\udc4a\ud83c\udfff",
+      "team_id": "18",
+      "waiver_budget_used": 0,
+      "week_points": 92.04
+    }
+  ],
+  "matchups": [],
+  "power_rankings": [],
+  "league_context": {
+    "adapter": "guillotine",
+    "closest_survivor": "BuckyBrooks",
+    "data_status": "DERIVED",
+    "eliminated_manager": "Bsoares401",
+    "elimination_score": 70.54,
+    "highest_score": 135.78,
+    "remaining_teams": 16,
+    "survival_cutoff": 70.54,
+    "survival_margin": 2.8,
+    "survival_risk": [
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 100,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 1,
+        "survival_risk": "EXTREME",
+        "team": "Bsoares401",
+        "team_id": "10",
+        "week_score": 70.54
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 98,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 2,
+        "survival_risk": "HIGH",
+        "team": "BuckyBrooks",
+        "team_id": "16",
+        "week_score": 73.34
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 99,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 3,
+        "survival_risk": "HIGH",
+        "team": "Caleb\u2019s Nail Salon",
+        "team_id": "15",
+        "week_score": 79.12
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 0,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 4,
+        "survival_risk": "HIGH",
+        "team": "JaspersDad",
+        "team_id": "11",
+        "week_score": 82.3
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 100,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 5,
+        "survival_risk": "MODERATE",
+        "team": "Put \u2018Em Down Jeantly",
+        "team_id": "13",
+        "week_score": 84.18
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 90,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 6,
+        "survival_risk": "MODERATE",
+        "team": "kmillzbos617",
+        "team_id": "9",
+        "week_score": 85.02
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 100,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 7,
+        "survival_risk": "MODERATE",
+        "team": "Catch These Hands \ud83d\udc4a\ud83c\udfff",
+        "team_id": "18",
+        "week_score": 92.04
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 68,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 8,
+        "survival_risk": "MODERATE",
+        "team": "tbach24",
+        "team_id": "5",
+        "week_score": 92.16
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 0,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 9,
+        "survival_risk": "MODERATE",
+        "team": "Clobberknockers",
+        "team_id": "4",
+        "week_score": 95.76
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 0,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 10,
+        "survival_risk": "LOW",
+        "team": "Momoney1288",
+        "team_id": "12",
+        "week_score": 103.74
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 97,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 11,
+        "survival_risk": "LOW",
+        "team": "B.I.T.E.",
+        "team_id": "2",
+        "week_score": 109.56
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 100,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 12,
+        "survival_risk": "LOW",
+        "team": "Vladjoseph37",
+        "team_id": "8",
+        "week_score": 117.56
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 0,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 13,
+        "survival_risk": "LOW",
+        "team": "KingJames117",
+        "team_id": "14",
+        "week_score": 121.38
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 0,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 14,
+        "survival_risk": "LOW",
+        "team": "Alesclub",
+        "team_id": "3",
+        "week_score": 133.24
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 0,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 15,
+        "survival_risk": "LOW",
+        "team": "Jacobs Family Affairs",
+        "team_id": "6",
+        "week_score": 134.74
+      },
+      {
+        "data_status": "DERIVED",
+        "faab_remaining": 88,
+        "reasons": [
+          "risk rank is based on current/recent fantasy scoring",
+          "FAAB is context and not treated as projected points"
+        ],
+        "risk_rank": 16,
+        "survival_risk": "LOW",
+        "team": "Last Kut",
+        "team_id": "1",
+        "week_score": 135.78
+      }
+    ]
+  }
+}
