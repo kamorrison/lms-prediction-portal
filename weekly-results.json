@@ -1,15 +1,15 @@
 {
   "meta": {
     "cycle": "results",
-    "generated_at": "2026-11-04T02:12:39+00:00",
+    "generated_at": "2026-11-11T13:18:19+00:00",
     "league_key": "last_man_standing",
     "league_name": "Last Man Standing",
     "mode": "regular",
     "platform": "sleeper",
     "platform_league_id": "1389722150490886144",
     "season": 2026,
-    "source_week": 8,
-    "week": 8
+    "source_week": 9,
+    "week": 9
   },
   "teams": [
     {
@@ -20,21 +20,21 @@
       "players": [
         "11566",
         "11576",
-        "11834",
+        "12490",
         "12495",
         "12506",
         "13279",
-        "1479",
-        "6806",
-        "7543",
+        "3198",
+        "8130",
         "8144",
         "8183",
         "9221",
+        "9484",
         "9501",
         "9997"
       ],
       "points_against": 0.0,
-      "points_for": 923.72,
+      "points_for": 1022.9,
       "prior_week_points": {
         "1": 123.86,
         "2": 76.74,
@@ -42,7 +42,8 @@
         "4": 118.22,
         "5": 116.66,
         "6": 98.46,
-        "7": 130.32
+        "7": 130.32,
+        "8": 123.68
       },
       "record": {
         "losses": 0,
@@ -51,19 +52,19 @@
       },
       "roster_id": "1",
       "starters": [
-        "11566",
+        "8183",
         "12495",
         "9221",
         "9997",
-        "1479",
-        "12506",
+        "8144",
+        "8130",
         "11576",
-        "9501"
+        "12506"
       ],
       "team": "Last Kut",
       "team_id": "1",
-      "waiver_budget_used": 435,
-      "week_points": 123.68
+      "waiver_budget_used": 797,
+      "week_points": 99.18
     },
     {
       "eliminated_week": 6,
@@ -80,7 +81,8 @@
         "4": 102.88,
         "5": 117.04,
         "6": 57.52,
-        "7": 0.0
+        "7": 0.0,
+        "8": 0.0
       },
       "record": {
         "losses": 0,
@@ -100,11 +102,10 @@
       "manager": "alesclub",
       "owner_id": "997688647067111424",
       "players": [
-        "10232",
-        "11435",
         "11563",
         "11586",
         "11635",
+        "12545",
         "3294",
         "4034",
         "4217",
@@ -113,10 +114,11 @@
         "8155",
         "8167",
         "8228",
-        "9487"
+        "9487",
+        "9502"
       ],
       "points_against": 0.0,
-      "points_for": 893.76,
+      "points_for": 1013.76,
       "prior_week_points": {
         "1": 81.84,
         "2": 85.62,
@@ -124,7 +126,8 @@
         "4": 83.46,
         "5": 150.7,
         "6": 107.52,
-        "7": 135.18
+        "7": 135.18,
+        "8": 116.1
       },
       "record": {
         "losses": 0,
@@ -135,17 +138,17 @@
       "starters": [
         "3294",
         "11586",
-        "8228",
-        "8137",
-        "9487",
-        "5022",
+        "4034",
         "8167",
-        "10232"
+        "9487",
+        "4217",
+        "10232",
+        "11635"
       ],
       "team": "Alesclub",
       "team_id": "3",
       "waiver_budget_used": 920,
-      "week_points": 116.1
+      "week_points": 120.0
     },
     {
       "eliminated_week": null,
@@ -153,23 +156,23 @@
       "manager": "bayoklein",
       "owner_id": "1262965763719839744",
       "players": [
-        "10235",
+        "11579",
         "12507",
         "12519",
-        "12534",
         "13276",
         "13286",
-        "4035",
-        "4039",
+        "3286",
+        "4983",
         "4984",
-        "7525",
+        "5001",
+        "5892",
+        "7562",
         "7564",
-        "8110",
-        "96",
+        "8126",
         "9756"
       ],
       "points_against": 0.0,
-      "points_for": 827.4,
+      "points_for": 929.36,
       "prior_week_points": {
         "1": 79.46,
         "2": 151.82,
@@ -177,7 +180,8 @@
         "4": 113.92,
         "5": 85.0,
         "6": 106.9,
-        "7": 95.28
+        "7": 95.28,
+        "8": 99.26
       },
       "record": {
         "losses": 0,
@@ -188,17 +192,17 @@
       "starters": [
         "4984",
         "13286",
-        "12507",
+        "4035",
         "12519",
         "9756",
-        "8110",
+        "5001",
         "7564",
-        "13276"
+        "3286"
       ],
       "team": "Clobberknockers",
       "team_id": "4",
       "waiver_budget_used": 1000,
-      "week_points": 99.26
+      "week_points": 101.96
     },
     {
       "eliminated_week": null,
@@ -208,21 +212,21 @@
       "players": [
         "10229",
         "11564",
-        "11603",
+        "11625",
         "12474",
         "13294",
         "13346",
         "2216",
         "3163",
         "6813",
-        "8126",
         "8131",
+        "8136",
         "8146",
         "9224",
         "9509"
       ],
       "points_against": 0.0,
-      "points_for": 884.22,
+      "points_for": 986.68,
       "prior_week_points": {
         "1": 117.52,
         "2": 89.42,
@@ -230,7 +234,8 @@
         "4": 109.86,
         "5": 162.56,
         "6": 111.2,
-        "7": 96.04
+        "7": 96.04,
+        "8": 105.46
       },
       "record": {
         "losses": 0,
@@ -240,18 +245,18 @@
       "roster_id": "5",
       "starters": [
         "11564",
-        "6813",
+        "9224",
         "9509",
         "10229",
-        "8146",
-        "11603",
-        "8126",
-        "9224"
+        "11625",
+        "8131",
+        "12474",
+        "6813"
       ],
       "team": "tbach24",
       "team_id": "5",
       "waiver_budget_used": 615,
-      "week_points": 105.46
+      "week_points": 102.46
     },
     {
       "eliminated_week": 5,
@@ -268,7 +273,8 @@
         "4": 120.2,
         "5": 57.34,
         "6": 0.0,
-        "7": 0.0
+        "7": 0.0,
+        "8": 0.0
       },
       "record": {
         "losses": 0,
@@ -297,7 +303,8 @@
         "4": 0.0,
         "5": 0.0,
         "6": 0.0,
-        "7": 0.0
+        "7": 0.0,
+        "8": 0.0
       },
       "record": {
         "losses": 0,
@@ -326,7 +333,8 @@
         "4": 72.78,
         "5": 0.0,
         "6": 0.0,
-        "7": 0.0
+        "7": 0.0,
+        "8": 0.0
       },
       "record": {
         "losses": 0,
@@ -346,23 +354,23 @@
       "manager": "kmillzbos617",
       "owner_id": "997625144065490944",
       "players": [
-        "11637",
-        "11655",
         "12481",
-        "13293",
         "5844",
         "5850",
         "5859",
+        "5872",
         "7523",
         "7526",
+        "7547",
         "7569",
         "7594",
+        "8132",
         "8138",
         "9488",
         "9758"
       ],
       "points_against": 0.0,
-      "points_for": 908.42,
+      "points_for": 1004.3,
       "prior_week_points": {
         "1": 110.32,
         "2": 93.66,
@@ -370,7 +378,8 @@
         "4": 153.78,
         "5": 96.24,
         "6": 119.58,
-        "7": 108.32
+        "7": 108.32,
+        "8": 141.5
       },
       "record": {
         "losses": 0,
@@ -382,16 +391,16 @@
         "7523",
         "5850",
         "7594",
-        "7526",
+        "7547",
         "9488",
         "5844",
-        "11637",
+        "7569",
         "8138"
       ],
       "team": "kmillzbos617",
       "team_id": "9",
-      "waiver_budget_used": 830,
-      "week_points": 141.5
+      "waiver_budget_used": 1000,
+      "week_points": 95.88
     },
     {
       "eliminated_week": 3,
@@ -408,7 +417,8 @@
         "4": 0.0,
         "5": 0.0,
         "6": 0.0,
-        "7": 0.0
+        "7": 0.0,
+        "8": 0.0
       },
       "record": {
         "losses": 0,
@@ -428,13 +438,14 @@
       "manager": "JaspersDad",
       "owner_id": "1263001824735002624",
       "players": [
+        "10213",
         "11610",
         "11620",
         "11624",
-        "11630",
         "1166",
         "12512",
         "12514",
+        "13274",
         "1466",
         "3271",
         "4046",
@@ -443,7 +454,7 @@
         "9493"
       ],
       "points_against": 0.0,
-      "points_for": 884.44,
+      "points_for": 1035.32,
       "prior_week_points": {
         "1": 104.2,
         "2": 97.3,
@@ -451,7 +462,8 @@
         "4": 130.4,
         "5": 101.92,
         "6": 109.58,
-        "7": 112.1
+        "7": 112.1,
+        "8": 146.64
       },
       "record": {
         "losses": 0,
@@ -472,7 +484,7 @@
       "team": "JaspersDad",
       "team_id": "11",
       "waiver_budget_used": 1000,
-      "week_points": 146.64
+      "week_points": 150.88
     },
     {
       "eliminated_week": null,
@@ -480,23 +492,23 @@
       "manager": "Momoney1288",
       "owner_id": "1128396360727789568",
       "players": [
-        "10219",
+        "11584",
         "11646",
         "12517",
-        "13301",
         "13424",
         "2449",
-        "4037",
         "421",
         "4866",
         "4892",
         "5947",
+        "7002",
         "7588",
         "8148",
-        "8150"
+        "8150",
+        "9753"
       ],
       "points_against": 0.0,
-      "points_for": 766.54,
+      "points_for": 867.96,
       "prior_week_points": {
         "1": 63.16,
         "2": 47.18,
@@ -504,7 +516,8 @@
         "4": 124.78,
         "5": 117.92,
         "6": 87.68,
-        "7": 129.9
+        "7": 129.9,
+        "8": 92.18
       },
       "record": {
         "losses": 0,
@@ -519,13 +532,13 @@
         "8148",
         "11646",
         "12517",
-        "2449",
+        "11584",
         "4866"
       ],
       "team": "Momoney1288",
       "team_id": "12",
-      "waiver_budget_used": 742,
-      "week_points": 92.18
+      "waiver_budget_used": 953,
+      "week_points": 101.42
     },
     {
       "eliminated_week": 7,
@@ -542,7 +555,8 @@
         "4": 85.88,
         "5": 116.74,
         "6": 92.04,
-        "7": 65.1
+        "7": 65.1,
+        "8": 0.0
       },
       "record": {
         "losses": 0,
@@ -564,21 +578,21 @@
       "players": [
         "10236",
         "10859",
+        "12526",
         "12527",
         "2133",
         "3214",
-        "4943",
+        "5846",
         "5967",
         "6770",
         "6790",
+        "6794",
         "6804",
-        "7553",
         "8112",
-        "8134",
-        "9500"
+        "8134"
       ],
       "points_against": 0.0,
-      "points_for": 958.06,
+      "points_for": 1038.3,
       "prior_week_points": {
         "1": 102.08,
         "2": 129.08,
@@ -586,7 +600,8 @@
         "4": 115.62,
         "5": 119.5,
         "6": 112.34,
-        "7": 122.98
+        "7": 122.98,
+        "8": 135.08
       },
       "record": {
         "losses": 0,
@@ -602,34 +617,21 @@
         "8134",
         "3214",
         "10859",
-        "5967"
+        "7553"
       ],
       "team": "KingJames117",
       "team_id": "14",
-      "waiver_budget_used": 655,
-      "week_points": 135.08
+      "waiver_budget_used": 1000,
+      "week_points": 80.24
     },
     {
-      "eliminated_week": null,
+      "eliminated_week": 9,
       "faab_remaining": 0,
       "manager": "jdamiani07",
       "owner_id": "997689563722072064",
-      "players": [
-        "10213",
-        "11559",
-        "11560",
-        "11783",
-        "12490",
-        "12526",
-        "3198",
-        "4199",
-        "4983",
-        "6794",
-        "9480",
-        "9482"
-      ],
+      "players": [],
       "points_against": 0.0,
-      "points_for": 807.02,
+      "points_for": 880.06,
       "prior_week_points": {
         "1": 133.56,
         "2": 82.12,
@@ -637,7 +639,8 @@
         "4": 118.82,
         "5": 73.5,
         "6": 112.6,
-        "7": 96.92
+        "7": 96.92,
+        "8": 110.38
       },
       "record": {
         "losses": 0,
@@ -652,13 +655,13 @@
         "6794",
         "12526",
         "9480",
-        "13287",
+        "8132",
         "4983"
       ],
       "team": "Caleb\u2019s Nail Salon",
       "team_id": "15",
-      "waiver_budget_used": 721,
-      "week_points": 110.38
+      "waiver_budget_used": 746,
+      "week_points": 73.04
     },
     {
       "eliminated_week": 8,
@@ -675,7 +678,8 @@
         "4": 87.78,
         "5": 94.14,
         "6": 110.56,
-        "7": 125.02
+        "7": 125.02,
+        "8": 82.5
       },
       "record": {
         "losses": 0,
@@ -683,20 +687,11 @@
         "wins": 0
       },
       "roster_id": "16",
-      "starters": [
-        "4881",
-        "11584",
-        "8408",
-        "7547",
-        "5846",
-        "9484",
-        "8130",
-        "13274"
-      ],
+      "starters": [],
       "team": "BuckyBrooks",
       "team_id": "16",
       "waiver_budget_used": 830,
-      "week_points": 82.5
+      "week_points": 0.0
     },
     {
       "eliminated_week": 1,
@@ -713,7 +708,8 @@
         "4": 0.0,
         "5": 0.0,
         "6": 0.0,
-        "7": 0.0
+        "7": 0.0,
+        "8": 0.0
       },
       "record": {
         "losses": 0,
@@ -734,22 +730,22 @@
       "owner_id": "854248729006448640",
       "players": [
         "11604",
-        "11631",
         "11632",
+        "12491",
         "12501",
         "12518",
         "12529",
         "12533",
         "13281",
         "13345",
-        "5012",
         "6786",
+        "7021",
+        "7543",
         "7611",
-        "9228",
-        "9511"
+        "9228"
       ],
       "points_against": 0.0,
-      "points_for": 904.72,
+      "points_for": 1049.04,
       "prior_week_points": {
         "1": 120.64,
         "2": 101.08,
@@ -757,7 +753,8 @@
         "4": 141.86,
         "5": 126.28,
         "6": 104.24,
-        "7": 102.72
+        "7": 102.72,
+        "8": 115.86
       },
       "record": {
         "losses": 0,
@@ -766,33 +763,33 @@
       },
       "roster_id": "18",
       "starters": [
-        "9228",
+        "8161",
         "7611",
         "13345",
         "6786",
-        "12501",
+        "11632",
         "11604",
-        "5012",
-        "12518"
+        "12518",
+        "12501"
       ],
       "team": "Catch These Hands \ud83d\udc4a\ud83c\udfff",
       "team_id": "18",
       "waiver_budget_used": 434,
-      "week_points": 115.86
+      "week_points": 144.32
     }
   ],
   "matchups": [],
   "power_rankings": [],
   "league_context": {
     "adapter": "guillotine",
-    "closest_survivor": "Momoney1288",
+    "closest_survivor": "KingJames117",
     "data_status": "DERIVED",
-    "eliminated_manager": "HurtNabers",
-    "elimination_score": 82.5,
-    "highest_score": 146.64,
-    "remaining_teams": 11,
-    "survival_cutoff": 82.5,
-    "survival_margin": 9.68,
+    "eliminated_manager": "jdamiani07",
+    "elimination_score": 73.04,
+    "highest_score": 150.88,
+    "remaining_teams": 10,
+    "survival_cutoff": 73.04,
+    "survival_margin": 7.2,
     "survival_risk": [
       {
         "data_status": "DERIVED",
@@ -803,9 +800,9 @@
         ],
         "risk_rank": 1,
         "survival_risk": "EXTREME",
-        "team": "BuckyBrooks",
-        "team_id": "16",
-        "week_score": 82.5
+        "team": "Caleb\u2019s Nail Salon",
+        "team_id": "15",
+        "week_score": 73.04
       },
       {
         "data_status": "DERIVED",
@@ -816,9 +813,9 @@
         ],
         "risk_rank": 2,
         "survival_risk": "HIGH",
-        "team": "Momoney1288",
-        "team_id": "12",
-        "week_score": 92.18
+        "team": "KingJames117",
+        "team_id": "14",
+        "week_score": 80.24
       },
       {
         "data_status": "DERIVED",
@@ -829,9 +826,9 @@
         ],
         "risk_rank": 3,
         "survival_risk": "HIGH",
-        "team": "Clobberknockers",
-        "team_id": "4",
-        "week_score": 99.26
+        "team": "kmillzbos617",
+        "team_id": "9",
+        "week_score": 95.88
       },
       {
         "data_status": "DERIVED",
@@ -842,9 +839,9 @@
         ],
         "risk_rank": 4,
         "survival_risk": "MODERATE",
-        "team": "tbach24",
-        "team_id": "5",
-        "week_score": 105.46
+        "team": "Last Kut",
+        "team_id": "1",
+        "week_score": 99.18
       },
       {
         "data_status": "DERIVED",
@@ -855,9 +852,9 @@
         ],
         "risk_rank": 5,
         "survival_risk": "MODERATE",
-        "team": "Caleb\u2019s Nail Salon",
-        "team_id": "15",
-        "week_score": 110.38
+        "team": "Momoney1288",
+        "team_id": "12",
+        "week_score": 101.42
       },
       {
         "data_status": "DERIVED",
@@ -868,9 +865,9 @@
         ],
         "risk_rank": 6,
         "survival_risk": "MODERATE",
-        "team": "Catch These Hands \ud83d\udc4a\ud83c\udfff",
-        "team_id": "18",
-        "week_score": 115.86
+        "team": "Clobberknockers",
+        "team_id": "4",
+        "week_score": 101.96
       },
       {
         "data_status": "DERIVED",
@@ -881,9 +878,9 @@
         ],
         "risk_rank": 7,
         "survival_risk": "LOW",
-        "team": "Alesclub",
-        "team_id": "3",
-        "week_score": 116.1
+        "team": "tbach24",
+        "team_id": "5",
+        "week_score": 102.46
       },
       {
         "data_status": "DERIVED",
@@ -894,9 +891,9 @@
         ],
         "risk_rank": 8,
         "survival_risk": "LOW",
-        "team": "Last Kut",
-        "team_id": "1",
-        "week_score": 123.68
+        "team": "Alesclub",
+        "team_id": "3",
+        "week_score": 120.0
       },
       {
         "data_status": "DERIVED",
@@ -907,9 +904,9 @@
         ],
         "risk_rank": 9,
         "survival_risk": "LOW",
-        "team": "KingJames117",
-        "team_id": "14",
-        "week_score": 135.08
+        "team": "Catch These Hands \ud83d\udc4a\ud83c\udfff",
+        "team_id": "18",
+        "week_score": 144.32
       },
       {
         "data_status": "DERIVED",
@@ -920,28 +917,15 @@
         ],
         "risk_rank": 10,
         "survival_risk": "LOW",
-        "team": "kmillzbos617",
-        "team_id": "9",
-        "week_score": 141.5
-      },
-      {
-        "data_status": "DERIVED",
-        "faab_remaining": 0,
-        "reasons": [
-          "risk rank is based on current/recent fantasy scoring",
-          "FAAB is context and not treated as projected points"
-        ],
-        "risk_rank": 11,
-        "survival_risk": "LOW",
         "team": "JaspersDad",
         "team_id": "11",
-        "week_score": 146.64
+        "week_score": 150.88
       }
     ]
   },
   "transaction_refresh": {
-    "as_of": "2026-11-04T02:12:45.133758Z",
-    "through_week": 9,
+    "as_of": "2026-11-11T13:19:15.121845Z",
+    "through_week": 10,
     "completed_trades": 0
   }
 }
